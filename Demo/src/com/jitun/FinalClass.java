@@ -9,5 +9,7 @@ public final class FinalClass {
 		FinalClass finalClass=new FinalClass();
 		System.out.println(finalClass.toString());
 		finalClass.test();
+		
+		System.out.println("test2 ");
 	}
 }
