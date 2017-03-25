@@ -13,3 +13,6 @@ public final class FinalClass {
 		System.out.println("test2 ");
 	}
 }
+
+//i have just added this comment
+//System.out.println(finalClass.toString())
