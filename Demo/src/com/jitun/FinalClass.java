@@ -15,3 +15,6 @@ public final class FinalClass {
 		System.out.println("test conflict :");
 	}
 }
+
+//i have just added this comment
+//System.out.println(finalClass.toString())
