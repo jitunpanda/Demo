@@ -11,5 +11,7 @@ public final class FinalClass {
 		finalClass.test();
 		
 		System.out.println("test2 ");
+		
+		System.out.println("test conflict :");
 	}
 }
