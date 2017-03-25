@@ -12,6 +12,10 @@ public final class FinalClass {
 		
 		System.out.println("test2 ");
 	}
+	
+	public void test2() {
+		System.out.println("new test2 method");
+	}
 }
 
 //i have just added this comment
