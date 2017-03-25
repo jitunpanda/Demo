@@ -5,12 +5,16 @@ public final class FinalClass {
 	public void test() {
 		System.out.println("test 1");
 	}
+	
+	//added comment lines for main method
 	public static void main(String[] args) {
 		FinalClass finalClass=new FinalClass();
 		System.out.println(finalClass.toString());
 		finalClass.test();
 		
 		System.out.println("test2 ");
+		
+		System.out.println("test conflict :");
 	}
 	
 	public void test2() {
